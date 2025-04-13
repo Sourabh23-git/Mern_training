@@ -111,4 +111,4 @@ Today we covered:
 
 ---
 
-⭐ Stay tuned for Day 2: Introduction to CSS & Styling Your Web Pages
+⭐ Stay tuned for Day 2
